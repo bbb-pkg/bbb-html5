@@ -3,8 +3,8 @@
     "name": "standard-minifier-js",
     "version": "2.4.0"
   },
-  "totalMinifiedBytes": 2414940,
-  "totalMinifiedGzipBytes": 564005,
+  "totalMinifiedBytes": 2414673,
+  "totalMinifiedGzipBytes": 563966,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 9484,
     "packages/meteor-base.js": 31,
@@ -1364,7 +1364,7 @@
       {}
     ],
     "app/app.js": [
-      1191227,
+      1190960,
       {
         "imports": {
           "ui": {
@@ -1496,7 +1496,7 @@
                 },
                 "component.jsx": 3061,
                 "container.jsx": 2608,
-                "service.js": 4907,
+                "service.js": 4948,
                 "styles.scss": 54,
                 "styles.scss.js": 4463
               },
@@ -1555,11 +1555,11 @@
                 "slide": {
                   "component.jsx": 542
                 },
-                "component.jsx": 9988,
+                "component.jsx": 10013,
                 "container.jsx": 1209,
                 "service.js": 2607,
                 "styles.scss": 54,
-                "styles.scss.js": 10115
+                "styles.scss.js": 10076
               },
               "video-provider": {
                 "video-list": {
@@ -1744,7 +1744,7 @@
                   "container.jsx": 858,
                   "service.js": 1874,
                   "styles.scss": 54,
-                  "styles.scss.js": 8035
+                  "styles.scss.js": 7996
                 },
                 "annotation-group": {
                   "component.jsx": 573,
@@ -1904,7 +1904,7 @@
                 "container.jsx": 4124,
                 "service.js": 1724,
                 "styles.scss": 54,
-                "styles.scss.js": 3785
+                "styles.scss.js": 3552
               },
               "meeting-ended": {
                 "rating": {
@@ -2059,7 +2059,7 @@
                 "component.jsx": 716
               },
               "join-handler": {
-                "component.jsx": 3500
+                "component.jsx": 3467
               },
               "loading-screen": {
                 "component.jsx": 418,
@@ -2111,7 +2111,7 @@
                 "styles.scss.js": 7742
               },
               "shortcut-help": {
-                "component.jsx": 4103,
+                "component.jsx": 4154,
                 "service.jsx": 804,
                 "styles.scss": 54,
                 "styles.scss.js": 938
@@ -2138,9 +2138,9 @@
                 "styles.scss.js": 8225
               },
               "user-info": {
-                "component.jsx": 1246,
+                "component.jsx": 1213,
                 "container.jsx": 202,
-                "service.js": 157,
+                "service.js": 150,
                 "styles.scss": 54,
                 "styles.scss.js": 803
               },
