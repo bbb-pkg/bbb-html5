@@ -3,8 +3,8 @@
     "name": "standard-minifier-js",
     "version": "2.4.0"
   },
-  "totalMinifiedBytes": 2414673,
-  "totalMinifiedGzipBytes": 563966,
+  "totalMinifiedBytes": 2414270,
+  "totalMinifiedGzipBytes": 563980,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 9484,
     "packages/meteor-base.js": 31,
@@ -1364,7 +1364,7 @@
       {}
     ],
     "app/app.js": [
-      1190960,
+      1190557,
       {
         "imports": {
           "ui": {
@@ -1374,9 +1374,9 @@
                   "user-participants": {
                     "user-list-item": {
                       "user-dropdown": {
-                        "component.jsx": 11046,
+                        "component.jsx": 11050,
                         "styles.scss": 54,
-                        "styles.scss.js": 10780
+                        "styles.scss.js": 9823
                       },
                       "user-icons": {
                         "component.jsx": 834,
@@ -1483,20 +1483,20 @@
                 },
                 "message-form": {
                   "typing-indicator": {
-                    "component.jsx": 1694,
+                    "component.jsx": 1735,
                     "container.jsx": 1067
                   },
                   "component.jsx": 5185,
                   "container.jsx": 727,
                   "styles.scss": 54,
-                  "styles.scss.js": 7419
+                  "styles.scss.js": 7345
                 },
                 "chat-dropdown": {
                   "component.jsx": 2947
                 },
                 "component.jsx": 3061,
                 "container.jsx": 2608,
-                "service.js": 4948,
+                "service.js": 5033,
                 "styles.scss": 54,
                 "styles.scss.js": 4463
               },
@@ -1543,9 +1543,9 @@
                   "container.jsx": 672
                 },
                 "presentation-uploader": {
-                  "component.jsx": 14548,
+                  "component.jsx": 14815,
                   "container.jsx": 793,
-                  "service.js": 3255,
+                  "service.js": 3420,
                   "styles.scss": 54,
                   "styles.scss.js": 7916
                 },
@@ -1900,7 +1900,7 @@
                   "component.jsx": 5910,
                   "context.jsx": 2256
                 },
-                "component.jsx": 1640,
+                "component.jsx": 1656,
                 "container.jsx": 4124,
                 "service.js": 1724,
                 "styles.scss": 54,
@@ -2285,7 +2285,7 @@
             "client": {
               "base.jsx": 6721,
               "intl.jsx": 4656,
-              "logger.js": 1630
+              "logger.js": 1680
             }
           },
           "utils": {

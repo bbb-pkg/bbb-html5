@@ -2,16 +2,16 @@
 cac5b6dbe390da821bea0dc4eabed844  etc/systemd/system/mongod.service
 f0bb2a2eee684800b01781cb0a60d04a  usr/lib/systemd/system/bbb-html5.service
 d0b1e9c6d3718d1ed158404bdf2679b5  usr/lib/systemd/system/disable-transparent-huge-pages.service
-acf8badecbb1ed1baf7eb1764ee6d5a6  usr/share/doc/bbb-html5/changelog.gz
+4af4f89271d874c34b7750d76e247283  usr/share/doc/bbb-html5/changelog.gz
 c7ea56b7faf15dd6258800234eca43a2  usr/share/meteor/bundle/.node_version.txt
 1ebeb82b1c3b8a7d89c93a26cc431845  usr/share/meteor/bundle/README
 54b31eb7d000c8fb878de448a97a2f59  usr/share/meteor/bundle/main.js
 f40a1c90f2cbf787c670f87a817c8381  usr/share/meteor/bundle/mongo-ramdisk.conf
 6b2bf7dff3079676022c3028d77e9adc  usr/share/meteor/bundle/mongod_start_pre.sh
-04d3fcd994ae9b84f95b04e35b19bf89  usr/share/meteor/bundle/programs/server/app/app.js
-b183800d33a2308279be79766915812c  usr/share/meteor/bundle/programs/server/app/app.js.map
+a10f96be404a7e466c8e293be85749e4  usr/share/meteor/bundle/programs/server/app/app.js
+e4bfc32be3b1421b6ede1e1250a83b04  usr/share/meteor/bundle/programs/server/app/app.js.map
 9147f23b09f801bfda80b99408728e57  usr/share/meteor/bundle/programs/server/app/global-imports.js
-f8b8ab384105808dd2bf927e12ac7e55  usr/share/meteor/bundle/programs/server/assets/app/config/settings.yml
+d34d3c866d43a8dae4b3dd1df25a325f  usr/share/meteor/bundle/programs/server/assets/app/config/settings.yml
 cbbfa407b68d56de13ec55c579a3b3a3  usr/share/meteor/bundle/programs/server/assets/app/locales/ar.json
 4e1b224671f91b37e0e2da6e23082a21  usr/share/meteor/bundle/programs/server/assets/app/locales/az.json
 fc55de4570f02aca95317a5f9e5c84a6  usr/share/meteor/bundle/programs/server/assets/app/locales/bg_BG.json
@@ -20,7 +20,7 @@ d78b8e139826b22fd2d946119775b425  usr/share/meteor/bundle/programs/server/assets
 f4c52d5e0a5e42de2314ce7372607877  usr/share/meteor/bundle/programs/server/assets/app/locales/da.json
 b006e1491d8e3dd70bf4fb8f7e1f4c7d  usr/share/meteor/bundle/programs/server/assets/app/locales/de.json
 0de1333cc52f60ed03c67f5cd65519e8  usr/share/meteor/bundle/programs/server/assets/app/locales/el_GR.json
-be0ee4c1c809875b46de949ffc211719  usr/share/meteor/bundle/programs/server/assets/app/locales/en.json
+08277698f0836d67a8f78cb083e8834f  usr/share/meteor/bundle/programs/server/assets/app/locales/en.json
 5a908cf83d3cdcdc5fb2721901149f3f  usr/share/meteor/bundle/programs/server/assets/app/locales/es.json
 7c08ac2c1111dfeef9cf4b46e0a1b003  usr/share/meteor/bundle/programs/server/assets/app/locales/es_ES.json
 369d5f98eb8f505658864f338c4d5dec  usr/share/meteor/bundle/programs/server/assets/app/locales/es_MX.json
@@ -13045,7 +13045,7 @@ c6ce2d7686d2808902abf12837367527  usr/share/meteor/bundle/programs/server/npm/no
 a9c158fc5f4c16573e032be9763b2f26  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/LICENSE
 727fa2f4e0c9cbdde1b2306fa314b111  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/README.md
 c782426054e0305c37170cdf426c41f0  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/binding.gyp
-605c38271d2604e93d8cdf8cc6238a23  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/Makefile
+69c65075fc17d99878d004dee5ab5ae8  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/Makefile
 6994569f2ea48b875f396673b8e64ae1  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/Release/.deps/Release/addon.node.d
 80705582af7d7789b2eb574ea3565a2b  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/Release/.deps/Release/obj.target/addon/src/heapdump.o.d
 ad8a07f4862db2575687c35f03681072  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/Release/.deps/Release/obj.target/addon.node.d
@@ -13054,7 +13054,7 @@ d88638905bbb188f3d416e0f031e40f0  usr/share/meteor/bundle/programs/server/npm/no
 d88638905bbb188f3d416e0f031e40f0  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/Release/obj.target/addon.node
 5cee360bdd57419a87b4d3065437fddc  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/addon.target.mk
 5fd325331230ed3bcd3792998418b574  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/binding.Makefile
-c0117fc7ca1af1eeb295292d04cdf909  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/config.gypi
+4ed7fe1b818ee147a62bb1a1570e9a1b  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/build/config.gypi
 55f7da8643fe574cbec8ce68da7a303f  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/index.js
 2646b5b92db74d7dd3b09a815aa59a5e  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/package.json
 30c1e00a2443d322129e1a9e5c89aa79  usr/share/meteor/bundle/programs/server/npm/node_modules/heapdump/src/heapdump-posix.h
@@ -15065,7 +15065,7 @@ a3c0ca6279c058574f08a650e4fe4d02  usr/share/meteor/bundle/programs/server/npm/no
 400a39b2390f7e4b33b6b075f890e2f3  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/ChangeLog
 8a24adaa945a8e862bf983a1e70f7c2d  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/README.md
 10a959e6f017d6bebfaee1cb75023247  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/binding.gyp
-4ca467dc43060388fbb37fad8552ce28  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/Makefile
+c88bd30f58edbbb1f7def7ba1cd69275  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/Makefile
 5f58287de922281f026d2e50dfce18c2  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/Release/.deps/Release/memwatch.node.d
 5fdf05cf7ad45708a6e2731ab510519c  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/Release/.deps/Release/obj.target/memwatch/src/heapdiff.o.d
 919a28bd29335d5dcc4ca51e385cefd0  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/Release/.deps/Release/obj.target/memwatch/src/init.o.d
@@ -15079,7 +15079,7 @@ a3c0ca6279c058574f08a650e4fe4d02  usr/share/meteor/bundle/programs/server/npm/no
 e25436d3bd9df8f085cbfd218f3cfd0f  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/Release/obj.target/memwatch/src/util.o
 9a0ba97e5e3d62725696bdef39aaab00  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/Release/obj.target/memwatch.node
 58cb232a8dd9be8ccaf406e40e3c0c7d  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/binding.Makefile
-c0117fc7ca1af1eeb295292d04cdf909  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/config.gypi
+4ed7fe1b818ee147a62bb1a1570e9a1b  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/config.gypi
 93d5399a4ccb3c74defb9d2b56e2e02b  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/build/memwatch.target.mk
 fabbf2ba7444bcfe8485c0dfc9d46b21  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/examples/basic_heapdiff.js
 a43e2e79443969cbfb5f4adfd1e9b8a8  usr/share/meteor/bundle/programs/server/npm/node_modules/memwatch-next/examples/do_nothing_server.js
@@ -26443,8 +26443,6 @@ dc972852ce7b69c2ed4955209d2988e9  usr/share/meteor/bundle/programs/server/packag
 c68b5d93242bff467dd24735dd0c3a5b  usr/share/meteor/bundle/programs/server/profile.js
 42544b911027feb1c165d92d8127d1b7  usr/share/meteor/bundle/programs/server/program.json
 ea2e9d810d36867055b7817f772edb52  usr/share/meteor/bundle/programs/server/server-json.js
-249c47ad96f97de3a5189bae54d5cda8  usr/share/meteor/bundle/programs/web.browser/8fbd4482863cedba389470db55af1c20723e3c03.js
-62ad7821f32a573588eec82079cb1843  usr/share/meteor/bundle/programs/web.browser/8fbd4482863cedba389470db55af1c20723e3c03.stats.json
 00e5b8b9d9f20f45704b8db133a35577  usr/share/meteor/bundle/programs/web.browser/app/compatibility/adapter.js
 a101532b2e2ac663ee6a1d40c85ec920  usr/share/meteor/bundle/programs/web.browser/app/compatibility/bowser.js
 70d2846f464302445aba1e427e5cd3a6  usr/share/meteor/bundle/programs/web.browser/app/compatibility/kurento-extension.js
@@ -26490,8 +26488,10 @@ c508cda5b51d3bc6a70de848fb62f289  usr/share/meteor/bundle/programs/web.browser/a
 6bb3890ba1f1c5ecd712ee905410d5c9  usr/share/meteor/bundle/programs/web.browser/app/svgs/bbb_headphones_icon.svg
 c2026a608337f7b2d08480744b6a2f30  usr/share/meteor/bundle/programs/web.browser/b02c1e609b497129c953cf5bdab38c10f9dbff0a.css
 18c0b26d23b127e7ddd1bd25ef3f9c8f  usr/share/meteor/bundle/programs/web.browser/body.html
-129a0dd67c6e58f64afdcd642e2ea936  usr/share/meteor/bundle/programs/web.browser/head.html
-ae74be26e886ff4f2e8a42cb1834a1e3  usr/share/meteor/bundle/programs/web.browser/program.json
+794d45f9fe45ab635a55cd98cb753412  usr/share/meteor/bundle/programs/web.browser/c86276c602f80e1c39e9064918149b6eade2642d.js
+0911eee97d8df881a5d5b7923e6eccb1  usr/share/meteor/bundle/programs/web.browser/c86276c602f80e1c39e9064918149b6eade2642d.stats.json
+77ae546c9c281d4bfae722a14319783a  usr/share/meteor/bundle/programs/web.browser/head.html
+162f5c9f0a5542916ff45d2c2b478be5  usr/share/meteor/bundle/programs/web.browser/program.json
 2981ec5824b795d545f4a97b01c74861  usr/share/meteor/bundle/programs/web.browser.legacy/a5a50b61dd00cb12fe9deebab2d6f7030a30ecd5.js
 1ca93b4aa3564d2b73e1dff67da82168  usr/share/meteor/bundle/programs/web.browser.legacy/a5a50b61dd00cb12fe9deebab2d6f7030a30ecd5.stats.json
 00e5b8b9d9f20f45704b8db133a35577  usr/share/meteor/bundle/programs/web.browser.legacy/app/compatibility/adapter.js
