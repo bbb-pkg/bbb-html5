@@ -3,7 +3,7 @@
     "name": "standard-minifier-js",
     "version": "2.4.0"
   },
-  "totalMinifiedBytes": 2481141,
+  "totalMinifiedBytes": 2481155,
   "totalMinifiedGzipBytes": 572465,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 9484,
@@ -1375,7 +1375,7 @@
       {}
     ],
     "app/app.js": [
-      1223184,
+      1223198,
       {
         "imports": {
           "ui": {
@@ -2130,7 +2130,7 @@
               },
               "shortcut-help": {
                 "component.jsx": 4179,
-                "service.jsx": 842,
+                "service.jsx": 856,
                 "styles.scss": 54,
                 "styles.scss.js": 938
               },
