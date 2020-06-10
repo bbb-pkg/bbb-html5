@@ -3,15 +3,15 @@
     "name": "standard-minifier-js",
     "version": "2.4.0"
   },
-  "totalMinifiedBytes": 2483577,
-  "totalMinifiedGzipBytes": 573145,
+  "totalMinifiedBytes": 2485404,
+  "totalMinifiedGzipBytes": 573420,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 9484,
     "packages/meteor-base.js": 31,
     "packages/mobile-experience.js": 37,
     "packages/modules-runtime.js": 4199,
     "packages/modules.js": [
-      1011565,
+      1013281,
       {
         "node_modules": {
           "meteor": {
@@ -545,28 +545,29 @@
             "util.js": 854
           },
           "react-player": {
-            "package.json": 90,
+            "package.json": 84,
             "lib": {
-              "ReactPlayer.js": 7306,
-              "props.js": 2309,
-              "utils.js": 3598,
+              "index.js": 276,
               "players": {
-                "index.js": 4457,
-                "YouTube.js": 6884,
-                "SoundCloud.js": 5062,
-                "Vimeo.js": 5596,
-                "Facebook.js": 4760,
-                "Streamable.js": 4524,
-                "Wistia.js": 5426,
-                "Twitch.js": 5164,
-                "DailyMotion.js": 6132,
-                "Mixcloud.js": 4825,
-                "Vidyard.js": 4997,
-                "FilePlayer.js": 9686
+                "index.js": 2876,
+                "YouTube.js": 7431,
+                "SoundCloud.js": 5167,
+                "Vimeo.js": 5646,
+                "Facebook.js": 4813,
+                "Streamable.js": 4560,
+                "Wistia.js": 5458,
+                "Twitch.js": 5196,
+                "DailyMotion.js": 6169,
+                "Mixcloud.js": 4859,
+                "Vidyard.js": 5080,
+                "FilePlayer.js": 9774
               },
-              "patterns.js": 1596,
+              "utils.js": 3625,
+              "patterns.js": 3469,
+              "ReactPlayer.js": 7320,
+              "props.js": 2185,
               "Player.js": 7230,
-              "Preview.js": 4740
+              "Preview.js": 4868
             },
             "node_modules": {
               "deepmerge": {
@@ -577,6 +578,10 @@
               }
             }
           },
+          "load-script": {
+            "package.json": 63,
+            "index.js": 785
+          },
           "memoize-one": {
             "package.json": 94,
             "dist": {
@@ -586,10 +591,6 @@
           "react-fast-compare": {
             "package.json": 86,
             "index.js": 1628
-          },
-          "load-script": {
-            "package.json": 63,
-            "index.js": 785
           },
           "react-toggle": {
             "package.json": 95,
@@ -1375,7 +1376,7 @@
       {}
     ],
     "app/app.js": [
-      1225620,
+      1225731,
       {
         "imports": {
           "ui": {
@@ -1408,7 +1409,7 @@
                       "styles.scss": 54,
                       "styles.scss.js": 1457
                     },
-                    "component.jsx": 3698,
+                    "component.jsx": 3713,
                     "container.jsx": 417
                   },
                   "breakout-room": {
@@ -1872,7 +1873,7 @@
                   "styles.scss": 54,
                   "styles.scss.js": 10034
                 },
-                "component.jsx": 7125,
+                "component.jsx": 7221,
                 "container.jsx": 531,
                 "service.js": 1119,
                 "styles.scss": 54,
