@@ -3,15 +3,15 @@
     "name": "standard-minifier-js",
     "version": "2.4.0"
   },
-  "totalMinifiedBytes": 2485404,
-  "totalMinifiedGzipBytes": 573420,
+  "totalMinifiedBytes": 2486760,
+  "totalMinifiedGzipBytes": 573699,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 9484,
     "packages/meteor-base.js": 31,
     "packages/mobile-experience.js": 37,
     "packages/modules-runtime.js": 4199,
     "packages/modules.js": [
-      1013281,
+      1013773,
       {
         "node_modules": {
           "meteor": {
@@ -550,24 +550,24 @@
               "index.js": 276,
               "players": {
                 "index.js": 2876,
-                "YouTube.js": 7431,
-                "SoundCloud.js": 5167,
-                "Vimeo.js": 5646,
-                "Facebook.js": 4813,
-                "Streamable.js": 4560,
-                "Wistia.js": 5458,
-                "Twitch.js": 5196,
-                "DailyMotion.js": 6169,
-                "Mixcloud.js": 4859,
-                "Vidyard.js": 5080,
-                "FilePlayer.js": 9774
+                "YouTube.js": 7441,
+                "SoundCloud.js": 5183,
+                "Vimeo.js": 5656,
+                "Facebook.js": 4823,
+                "Streamable.js": 4570,
+                "Wistia.js": 5538,
+                "Twitch.js": 5206,
+                "DailyMotion.js": 6179,
+                "Mixcloud.js": 4875,
+                "Vidyard.js": 5090,
+                "FilePlayer.js": 9784
               },
-              "utils.js": 3625,
-              "patterns.js": 3469,
-              "ReactPlayer.js": 7320,
+              "utils.js": 3786,
+              "patterns.js": 3517,
+              "ReactPlayer.js": 7336,
               "props.js": 2185,
-              "Player.js": 7230,
-              "Preview.js": 4868
+              "Player.js": 7240,
+              "Preview.js": 4933
             },
             "node_modules": {
               "deepmerge": {
@@ -1376,7 +1376,7 @@
       {}
     ],
     "app/app.js": [
-      1225731,
+      1226595,
       {
         "imports": {
           "ui": {
@@ -1873,7 +1873,7 @@
                   "styles.scss": 54,
                   "styles.scss.js": 10034
                 },
-                "component.jsx": 7221,
+                "component.jsx": 7289,
                 "container.jsx": 531,
                 "service.js": 1119,
                 "styles.scss": 54,
@@ -2078,7 +2078,7 @@
                 "component.jsx": 716
               },
               "join-handler": {
-                "component.jsx": 3713
+                "component.jsx": 3715
               },
               "loading-screen": {
                 "component.jsx": 418,
@@ -2123,8 +2123,8 @@
                 "styles.scss.js": 8232
               },
               "screenshare": {
-                "component.jsx": 4148,
-                "container.jsx": 735,
+                "component.jsx": 4226,
+                "container.jsx": 938,
                 "service.js": 1567,
                 "styles.scss": 54,
                 "styles.scss.js": 7742
@@ -2209,7 +2209,7 @@
                 "bridge": {
                   "base.js": 781,
                   "kurento.js": 4761,
-                  "sip.js": 11242
+                  "sip.js": 11755
                 }
               }
             },
