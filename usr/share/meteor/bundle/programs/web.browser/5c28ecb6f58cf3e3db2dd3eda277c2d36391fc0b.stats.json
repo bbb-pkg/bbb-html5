@@ -3,8 +3,8 @@
     "name": "standard-minifier-js",
     "version": "2.4.0"
   },
-  "totalMinifiedBytes": 2489340,
-  "totalMinifiedGzipBytes": 574373,
+  "totalMinifiedBytes": 2489187,
+  "totalMinifiedGzipBytes": 574327,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 9484,
     "packages/meteor-base.js": 31,
@@ -1376,7 +1376,7 @@
       {}
     ],
     "app/app.js": [
-      1229175,
+      1229022,
       {
         "imports": {
           "ui": {
@@ -2177,7 +2177,7 @@
               },
               "audio-manager": {
                 "error-codes.js": 97,
-                "index.js": 10235
+                "index.js": 10082
               },
               "auth": {
                 "index.js": 4716
